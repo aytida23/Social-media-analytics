@@ -2,7 +2,6 @@ from __future__ import print_function
 import facebook
 
 
-
 page_access_token = 'your_page_access_token_here'
 
 graph = facebook.GraphAPI(page_access_token, version="2.7")
