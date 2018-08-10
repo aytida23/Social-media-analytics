@@ -60,5 +60,3 @@ def getting_the_facebook_page_data(facebook_page_id, page_or_user_access_token):
 facebook_page_id = raw_input("Enter your facebook page's id or name :\n")
 
 page_or_user_access_token = raw_input("Enter your or page's access token for authentication :\n")
-
-print(getting_the_facebook_page_data(facebook_page_id, page_or_user_access_token))
