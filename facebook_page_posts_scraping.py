@@ -9,8 +9,6 @@ feature" by using facebook Graph API.
 from __future__ import print_function
 import urllib2
 import json
-import datetime
-import csv
 import time
 
 #function for requesting the url for getting the data returned from the url
