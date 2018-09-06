@@ -59,3 +59,5 @@ def getting_the_facebook_page_data(facebook_group_id, user_access_token):
 facebook_group_id = raw_input("Enter your facebook group's id or name :\n")
 
 user_access_token = raw_input("Enter your access token for authentication :\n")
+
+print(getting_the_facebook_page_data(facebook_group_id, user_access_token))
